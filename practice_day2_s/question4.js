@@ -1,8 +1,8 @@
 function divisable(number) {
-    if (number % 3 == 1)
-        return false;
+    if (number % 3 == 0)
+        return true;
 
-    return true;
+    return false;
 }
 
 var arr = new Array(3, 6, 9, 12, 39);
