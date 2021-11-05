@@ -8,4 +8,11 @@ If a number is 40, then add 4, and print it.
 If a number is other, then add 10, and print it.
 
 3. A user is giving his name, and role(Root/IAM/Trial),
-write a function to return his tasks and print it later outside of the function.*/
+write a function to return his tasks and print it later outside of the function.
+
+4. Find if all the array elements are divisable by three or not.
+
+5. Give the practical examples of hoisting rules.
+
+6. What is the disadvantage of function as a variable,
+when we define variable context.*/

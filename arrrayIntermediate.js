@@ -3,7 +3,7 @@ var a = new Array("Gairik", "Sampriti", "Sayan", "Bata", "Mono");
 //object.method--> syntax general
 
 //Searching
-//method--> indexOf("Element"), returns element idex, if there,
+//method--> indexOf("Element"), returns element index, if there,
 // returns -1 if not there
 
 
