@@ -26,7 +26,7 @@ console.log(splitArray);
 //method--> every(<function reference>)
 
 function isEvenFunction(number){
-    if(number%2==1)
+    if(number%2)    //0,1
     return false;
 
     return true;
