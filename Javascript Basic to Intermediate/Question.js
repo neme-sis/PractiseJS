@@ -15,4 +15,11 @@ write a function to return his tasks and print it later outside of the function.
 5. Give the practical examples of hoisting rules.
 
 6. What is the disadvantage of function as a variable,
-when we define variable context.*/
+when we define variable context.
+
+7. Print all the methods of an object by loop.
+
+8. If an array is odd elemented, insert "odd" in first index,
+if it is even elemented, insert "even" in first index
+
+9. Give example of 'this' function calling rule.*/
