@@ -1,0 +1,20 @@
+header{
+    background-color: bisque;
+    color: blue;
+    border-style: groove;
+    border-color: brown;
+    margin: 20px;
+    padding-left: 10px;
+}
+img{
+    height: auto;
+    width: 100%;
+}
+body{
+    background-color: chocolate;
+}
+p{
+    color: rgb(255, 255, 255);
+    border-style: dotted;
+    border-color: black ;
+}
