@@ -13,7 +13,11 @@ setInterval(()=>{
     }
     interval.innerText = ct;
     interval2.innerText=ct2;
-}, 10)
+}, 1000)
+
+setTimeout(()=>{
+    notice.innerHTML = "Minutes you have spent in our website";
+}, (60*1000))
 
 setTimeout(()=>{
     notice.innerHTML = "You have spent more than 1 hour in our website";
