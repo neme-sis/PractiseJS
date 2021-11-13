@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Counter</title>
+    <style>
+        body{
+            align-items: center;
+            text-align: center;
+            background-color: rgb(63, 63, 63);
+            margin: 5%;
+            color: white;
+        }
+        img{
+            width: 100%;
+            height: auto;
+            max-width: 648px;
+        }
+        .textbox{
+            margin: auto;
+            width: 50%;
+            border: 10px solid rgb(168, 168, 168);
+            border-radius: 75%;
+        }
+        p:hover{
+            transform: scale(1.2);
+        }
+        .countertext{
+            font-family:sans-serif;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>You Stay, We Hear</h1>
+    </header>
+    <main>
+        <div>
+            <img src="https://media.istockphoto.com/photos/thank-you-for-visiting-picture-id971256984?k=20&m=971256984&s=612x612&w=0&h=jg1SZ-BHkKFUwc3wNF2I3WUNKOam1D1blYLx4L_fwoo=" alt="">
+        </div><br><br>
+        <div class="textbox">
+            <h2><span id="min">0</span>:<span id="sec">0</span></h2>
+            <p class="countertext">Seconds you have spent in our website</p>
+        </div>
+    </main><br><br><hr>
+    <footer>
+        <h4>Thank You</h4>
+    </footer>
+    <script src="script-index.js"></script>
+</body>
+</html>
