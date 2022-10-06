@@ -12,3 +12,4 @@ for(let [index,val] of myMap){
     console.log(index);
     console.log(val);
 }
+console.log('hello world')
