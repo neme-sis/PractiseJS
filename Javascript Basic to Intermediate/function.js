@@ -42,13 +42,4 @@ var printNumber = function(n){
 
     console.log(printNumber);       //Referencing a function--> type and name output
 
-//callback function
-const funA = (person, param) => {
-    console.log(`I am talking to ${person}`);
-    param()
-}
-const funB = () => {
-    console.log('I will call you little later');
-}
 
-funA("Sayan", funB)
